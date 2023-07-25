@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "evenorodd",
+      "request": "launch",
+      "mainClass": "evenorodd",
+      "projectName": "c tutorial_8d00c733"
+    },
+    {
+      "type": "java",
+      "name": "greatest",
+      "request": "launch",
+      "mainClass": "greatest",
+      "projectName": "c tutorial_8d00c733"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "c tutorial_8d00c733"
+    },
+    {
+      "type": "java",
+      "name": "adult",
+      "request": "launch",
+      "mainClass": "adult",
+      "projectName": "c tutorial_8d00c733"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/c tutorial",
+      "program": "c:/c tutorial/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
